@@ -10,7 +10,7 @@ lub odjęte od wyniku zawodnika w zależności od siły i kierunku wiatru.
 Można dostosować te wartości statycznie, a w kolejnych wersjach będzie możliwość
 automatyzacji wykrywania siły jak i kierunku wiatru.
 Wydano następujące wersje:
-# WindPoints 1.0  
+# WindPoints 1.0.0  
 -statyczne wprowadzania kierunku wiatru  
 -statyczne wprowadzania wartości przelicznika punktowego za 1m/s  
 -dynamiczne obliczanie siy wiatru podczas skoku oraz wyliczenie śreniej siły z całego skoku  
