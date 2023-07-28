@@ -20,5 +20,5 @@ Wydano następujące wersje:
 # WindPoints 1.0.1
 -poprawiono dokładność wyliczania średniej siły wiatru podczas skoku
 # WindPoints 1.1.0
--automatyczne wykrywanie kierunku wiatru dla rozdzielczości 1920x1080 
+-automatyczne wykrywanie kierunku wiatru dla rozdzielczości 1920x1080  
 -dokładna przedstawienie analizy przeliczników po oddanym skoku
