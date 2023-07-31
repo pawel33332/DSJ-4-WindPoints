@@ -22,3 +22,7 @@ Wydano następujące wersje:
 # WindPoints 1.1.0
 -automatyczne wykrywanie kierunku wiatru dla rozdzielczości 1920x1080 w trybie treningu  
 -dokładna przedstawienie analizy przeliczników po oddanym skoku
+# WindPoints 1.1.1
+-naprawiony błąd z ustawieniem wartości przelicznika  
+-naprawiony bład z błednym wskazywaniem kierunku 90 stopni  
+-aktualizacja błędnych grafik dla kierunków 20 oraz 160 stopni
