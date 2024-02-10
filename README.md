@@ -1,5 +1,5 @@
 # DSJ-4-Wind-Points
-Uwaga! Aplikację z folderem graphics kopiujemy do folderu z grą DSJ 4.  
+Uwaga! Aplikację z folderem graphics kopiujemy do folderu z grą DSJ 4. Nie korzystamy z patchy graficznych modyfkujących kolor strzałki kierunku wiatru.  
 WindPoints to nieoficjalny dodatek do gry Deluxe Ski Jump 4,
 który wprowadza nową funkcję związana z punktacją zawodów. 
 Ten dodatek umożliwia dodawanie lub odejmowanie punktów w
