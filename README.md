@@ -26,3 +26,9 @@ Wydano następujące wersje:
 -naprawiony błąd z ustawieniem wartości przelicznika  
 -naprawiony bład z błednym wskazywaniem kierunku 90 stopni  
 -aktualizacja błędnych grafik dla kierunków 20 oraz 160 stopni
+# WindPoints 1.2.0
+-automatyczne wykrywanie kierunku wiatru dla rozdzielczości 1920x1080 również w trybie PŚ oraz każdej kamery oprócz "F4"  
+-zmieniony algorytm odczytu kierunku: wykrywanie kierunku co 30 stopni  
+-możliwe wpisanie dwóch różnych wartości przelicznika punktowego za 1m/s pod narty oraz z tyłu  
+-zmiana sposobu wyświetlania wartości punktowych po zakończonym skoku  
+-naprawiono kilka mniejszych błędów
