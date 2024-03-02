@@ -1,7 +1,5 @@
 # DSJ-4-Wind-Points
-![image](https://github.com/pawel33332/DSJ-4-WindPoints/assets/92433894/f1fed4af-4e62-413a-9e12-ef8890d20e06)
-Uwaga! Aplikację z folderem graphics kopiujemy do folderu z grą DSJ 4. Nie korzystamy z patchy graficznych modyfkujących kolor strzałki kierunku wiatru. W taki sposób powinna wyglądać strzałka wiatru w grze po uruchomieniu skryptu przy kącie 180 stopni.
-Istnieje możliwość, że na niektórych komputerach wyświetli się inaczej. Rozwiązaniem może być zmiana wyglądu strzałki klikając przycisk "-", przycisk "=" to powrót do poprzedniej strzałki. 
+![WindPoints_1_3](https://github.com/pawel33332/DSJ-4-WindPoints/assets/92433894/75832459-fae9-411b-ba6a-2f203630bdd4)
 WindPoints to nieoficjalny dodatek do gry Deluxe Ski Jump 4,
 który wprowadza nową funkcję związana z punktacją zawodów. 
 Ten dodatek umożliwia dodawanie lub odejmowanie punktów w
@@ -9,8 +7,7 @@ zależności od aktualnych warunków wiatru podczas skoków, tak jak
 odbywa się to w realistycznych zawodach skoków narciarskich.
 Dodatek umożliwia ustawienie określonej liczby punktów, które zostaną dodane
 lub odjęte od wyniku zawodnika w zależności od siły i kierunku wiatru.
-Można dostosować te wartości statycznie, a w kolejnych wersjach będzie możliwość
-automatyzacji wykrywania siły jak i kierunku wiatru.
+Od wersji 1.3 wykonywane jest automatyczne wykrywanie siły jak i kierunku wiatru dla wszystich typów rozdzielczości. Jedyne wymaganie to wersja 1.11.3.
 Wydano następujące wersje:
 # WindPoints 1.0.0  
 -statyczne wprowadzania kierunku wiatru  
@@ -34,3 +31,8 @@ Wydano następujące wersje:
 -możliwe wpisanie dwóch różnych wartości przelicznika punktowego za 1m/s pod narty oraz z tyłu  
 -zmiana sposobu wyświetlania wartości punktowych po zakończonym skoku  
 -naprawiono kilka mniejszych błędów
+# WindPoints 1.3.0
+-zmiana sposobu wykrywania kierunku wiatru: wykrywanie kierunku co 10 stopni  
+-automatyczne wykrywanie kierunku wiatru bez względu na rozdzielczość ekranu  
+-dodano cztery nowe punkty pomiarowe - łącznie siedem  
+-zwiększono możliwość wpisania wartości przelicznika punktowego za 1m/s z 11.2 na 13.0 punktów  
