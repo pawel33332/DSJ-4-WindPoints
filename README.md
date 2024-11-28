@@ -36,3 +36,6 @@ Wydano następujące wersje:
 -automatyczne wykrywanie kierunku wiatru bez względu na rozdzielczość ekranu  
 -dodano cztery nowe punkty pomiarowe - łącznie siedem  
 -zwiększono możliwość wpisania wartości przelicznika punktowego za 1m/s z 11.2 na 13.0 punktów  
+# WindPoints 1.4.0
+-możliwość ustawienia loteryjnych warunków wietrznych podczas konkursów PŚ  
+-dodano opcje ustawienia losowego wiatru bądź utrzymywania wiatru pod narty lub w plecy z różną prędkością i kierunkiem  
