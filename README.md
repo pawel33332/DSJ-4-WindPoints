@@ -39,3 +39,12 @@ Wydano następujące wersje:
 # WindPoints 1.4.0
 -możliwość ustawienia loteryjnych warunków wietrznych podczas konkursów PŚ  
 -dodano opcje ustawienia losowego wiatru bądź utrzymywania wiatru pod narty lub w plecy z różną prędkością i kierunkiem  
+# WindPoints 1.5.0
+-program uaktualniony do działania na wersji dsj 4 1.12.2  
+-zwiększono możliwość wpisania wartości przelicznika punktowego za 1m/s z 11.2 na 50.0 punktów  
+-wartości przelicznika punktowego można wprowadzać z listy rozwijanej do wybranej skoczni   
+-dane o aktualnych waunkach(bardzo dokładne) pobierane bezpośrednio z adresów pamięci DSJ 4 bez wyliczania kierunku i siły  
+-dodany ósmy punkt pomiarowy - ilość zależy od długości skoku  
+-ustawienie losowego wiatru nie powoduje zmiany belki w trakcie trwania konkursu   
+-możliwośc konfiguracji nagłych podmuchów wiatru(moc, prawdopodobieństwo)  
+-możliwość konfiguracji korytarza wiatrowego do uruchamiania zielonego światła  
